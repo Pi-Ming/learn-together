@@ -1,6 +1,5 @@
 import { createApp } from 'vue'
 import 'normalize.css'
-
 import App from './App.vue'
 import { registerCmps } from '@/components/index'
 import { registerPlugins } from '@/plugins/index'

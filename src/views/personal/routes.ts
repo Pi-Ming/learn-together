@@ -1,6 +1,6 @@
 export default [
   {
-    path: '/login',
+    path: '/personal',
     component: () => import('./index.vue')
   }
 ]
